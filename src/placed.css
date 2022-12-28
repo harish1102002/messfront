@@ -1,0 +1,43 @@
+.cards {
+  margin: 1vw;
+  margin-top: 15px;
+  word-wrap: break-word;
+  padding: 10px;
+  height: auto;
+  white-space: pre;
+  color: wheat;
+  padding-bottom: 15px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8);
+  border-radius: 14px;
+  background-color: rgb(23, 23, 23);
+}
+
+.contai .cards .cards1 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-inline: 10px;
+}
+
+span {
+  color: whitesmoke;
+}
+.contai {
+  margin: 1vw;
+  width: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-around;
+}
+p {
+  color: whitesmoke;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: rgb(35, 35, 35);
+  height: 35px;
+  margin: 1vw;
+  font-size: 25px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.8);
+}
